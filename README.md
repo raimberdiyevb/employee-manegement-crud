@@ -25,12 +25,12 @@ This Spring Boot application empowers you to manage employee records with a user
 
 ## Usage
 
-- **Login (if applicable):** Provide your credentials to initiate a secure session.
+- **Login:** Provide your credentials to initiate a secure session.
 - **Employee Management:** Navigate to the "All Employees" page.
   - Authorized users can:
     - Create new employees using the "Add Employee" button.
-    - (Optional, with Spring Security) Update and delete existing employee records based on their roles:
-      - Admins: Full CRUD access (update and delete)
+    - Update and delete existing employee records based on their roles:
+      - Admins: Full CRUD access
       - Managers: Update employee details
 - **User Experience:** Enjoy a streamlined and intuitive interface for managing your employees.
 
@@ -53,11 +53,3 @@ This project is licensed under the (insert your preferred open-source license).
 
 - This README provides a high-level overview. Refer to the codebase for in-depth details.
 - Customize the application to suit your specific needs.
-
-## Getting Started (Optional - Detailed Steps)
-
-(Provide step-by-step instructions if needed, including dependency setup, database configuration, and specific commands)
-
-## Disclaimer (Optional)
-
-This project is for demonstration purposes. Adapt it to your production environment and implement appropriate security measures.
