@@ -1,6 +1,6 @@
 # Employee Management CRUD Application
 
-![Employee Management CRUD Application Screenshot](https://drive.google.com/file/d/1deBC4ROp8FrBODuiPPV4pfgOt0Q0SK0n/view?usp=sharing)
+![Employee Management CRUD Application Screenshot](https://drive.google.com/uc?id=1deBC4ROp8FrBODuiPPV4pfgOt0Q0SK0n)
 
 ## Description
 
